@@ -1,0 +1,23 @@
+.container {
+  text-align: center;
+}
+
+.title {
+  color: blue;
+  margin-top: 3rem;
+}
+
+.count {
+  color: green;
+  margin-top: 3rem;
+  font-size: 40px;
+}
+
+.button {
+  color: red;
+
+  margin: 30px;
+  background-color: transparent;
+  font-size: 50px;
+  border: none;
+}
